@@ -60,6 +60,9 @@ body
 {
    text-align: right!important; 
 }
+p{
+    word-wrap: break-word;
+}
 header{
     top: 0px;
     position: absolute;
